@@ -6,3 +6,5 @@ import android.view.Menu;
 
 
 add a test file
+
+what a fucking day
