@@ -6,12 +6,3 @@ import android.view.Menu;
 
 
 add a test file
-
-
-adsasd
-a
-sd
-a
-sd
-as
-dasd
