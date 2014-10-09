@@ -11,6 +11,7 @@ public class MyActivity extends ActionBarActivity {
 
     private TestView testView;
 
+    this is new add
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
